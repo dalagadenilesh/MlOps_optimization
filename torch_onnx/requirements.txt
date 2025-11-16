@@ -1,0 +1,5 @@
+onnx
+onnxruntime-gpu==1.23.2
+onnxscript
+torch==2.9.1
+torchvision
